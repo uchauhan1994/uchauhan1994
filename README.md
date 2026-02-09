@@ -1,69 +1,53 @@
 # 👋 Hi, I'm Uttam Chauhan
 
-🚀 **Cloud & IT Infrastructure Specialist | AWS | DevOps | System & Backup Administration**
+🚀 **Cloud & IT Infrastructure Specialist | AWS | DevOps | Security & Compliance**
 
-I bring **7+ years of hands-on experience** across IT infrastructure, cloud computing, and system administration. I specialize in building, managing, and automating reliable environments across **AWS, private cloud, Linux, and Windows systems**. I enjoy working where **cloud, automation, and infrastructure strategy** meet.
+I’m a Cloud & Infrastructure Engineer with **7+ years of hands-on experience** designing, securing, and operating scalable cloud and on-prem environments. I work at the intersection of **cloud architecture, automation, security, and compliance**, helping teams build reliable and cost-effective systems.
 
 ---
 
 ## 🧠 What I Do
-- Design and manage scalable cloud and private cloud infrastructure
-- Automate deployments and operations using DevOps best practices
-- Ensure system reliability, security, and data protection through robust backup strategies
-- Support complex enterprise environments with strong networking and identity management
+- Architect and manage AWS & private cloud infrastructure
+- Automate deployments using DevOps best practices
+- Secure environments with strong IAM, networking, and monitoring
+- Support **ISO 27001** and **SOC 2 Type II** compliance initiatives
+- Ensure high availability, backup, and disaster recovery
 
 ---
 
 ## ☁️ Cloud & DevOps
-- **AWS Services**, IAM, SAML integrations, Keycloak
-- Private Cloud: *vTech Cloud*
+- AWS (EC2, ECS, VPC, IAM, S3, RDS, Lambda, CloudFront, WAF, GuardDuty)
 - Docker (images, swarm, clustering)
-- CI/CD: Jenkins pipelines
+- Jenkins CI/CD pipelines
 - GitHub & Bitbucket workflows
+- Private Cloud (vTech Cloud)
 
 ---
 
-## 🖥️ Systems & Infrastructure
-- Linux & Windows Administration
-- Active Directory: User Profiles, Group Policies, DNS, DHCP, ADC
-- Backup & Restore Operations
-- SSL Certificate Management
-- VPS & Server Administration
+## 🔐 Security & Compliance
+- ISO/IEC 27001:2022 – implementation & controls
+- SOC 2 Type II – audit support & evidence collection
+- SAML, Keycloak, Azure AD
+- SSL, KMS, Secret Manager, vulnerability remediation
 
 ---
 
-## 🌐 Web & Application Hosting
-- Java, C++, Go, JavaScript, .NET, PHP, HTML
-- Apache Tomcat & web servers
-- Application deployment and monitoring
+## 🖥️ Systems & Databases
+- Linux & Windows Server Administration
+- Active Directory, GPO, DNS, DHCP
+- PostgreSQL, MySQL, MongoDB (clusters), Redis, InfluxDB
+- Monitoring: Prometheus, Grafana, Loki, ELK, Nagios
 
 ---
 
-## 🗄️ Databases
-- PostgreSQL
-- MongoDB (Clustering)
-- MySQL
-- InfluxDB
-- Redis
-
----
-
-## 🌐 Networking
-- Subnetting & DNS architecture
-- Network troubleshooting
-- Secure connectivity and infrastructure design
-
----
-
-## 🤝 Let’s Collaborate
-I’m interested in:
-- Cloud automation & DevOps projects
-- Infrastructure modernization
-- Open-source tools related to cloud, monitoring, or automation
+## 🤝 Open to Collaborate On
+- Cloud automation & DevOps projects  
+- Infrastructure modernization  
+- Security & compliance-driven systems  
 
 ---
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/uttamchauhan7
 
-⚡ **Fun fact:** I love optimizing systems until they’re both *boring* and *rock solid* — that’s when you know infrastructure is done right 😄
+⚡ **Fun fact:** I like infrastructure so stable and secure that nobody notices it’s there.
