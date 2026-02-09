@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Uttam
 
-<!--
-**uchauhan1994/uchauhan1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a developer who enjoys building, learning, and solving real-world problems with code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about software development and technology
+- 🌱 Currently learning and improving my skills every day
+- 🤝 Open to collaboration and new ideas
+- 📍 Based in the India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Java, Python, JavaScript
+- Frameworks & Tools: Spring Boot, React, Node.js
+- Cloud & DevOps: AWS, Docker, Git
+- Databases: MySQL, PostgreSQL
+
+## 📌 What You’ll Find Here
+- Personal and professional projects
+- Practice code and experiments
+- Learning notes and utilities
+
+## 📫 Let’s Connect
+- GitHub: [@your-github-username](https://github.com/uchauhan1994)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/uttamchauhan7)
+
+⭐️ Feel free to explore my repositories and reach out!
